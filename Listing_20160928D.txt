@@ -1,0 +1,14 @@
+total 60124
+drwxrwxr-x 2 satops SATOPS     4096 Sep 29 00:12 .
+drwxrwxr-x 8 satops SATOPS     4096 Sep  8 22:26 ..
+-rw-rw-r-- 1 satops SATOPS  1742135 Jul  1 23:27 20160701115500.compress.raw
+-rw-rw-r-- 1 satops SATOPS     1436 Jun 23 22:20 getbuf.c
+-rw-rw-r-- 1 satops SATOPS        0 Sep 29 00:12 Listing_20160928D.txt
+-rw-rw-r-- 1 satops SATOPS      375 Jun 23 22:22 Makefile
+-rwxr--r-- 1 satops SATOPS     6147 Jun 23 22:24 MakeInclude
+-rw-rw-r-- 1 satops SATOPS     6454 Jun 23 22:20 nexradII.c
+-rwxr-xr-x 1 satops SATOPS   782016 Jun 27 22:30 nexradII.exe
+-rw-rw-r-- 1 satops SATOPS  1271562 Jun 27 22:29 PGUA20160602_055618_V06.compress.raw
+-rw-rw-r-- 1 satops SATOPS 27562616 Jun 27 22:31 PGUA20160602_055618_V06.raw
+-rw-rw-r-- 1 satops SATOPS 30150776 Jul  1 23:28 PGUA_20160701115500.raw
+-rw-rw-r-- 1 satops SATOPS      577 Jul  1 16:56 README.txt
